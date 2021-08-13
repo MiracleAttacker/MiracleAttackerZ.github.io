@@ -7,7 +7,7 @@ $("#open").click(function(){
 	{
 		var typed = new Typed('.letter', {
 			strings: ["I Love You Three Thousand Times ❤", 
-				"Mrs.^200赵小傻<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;时光飞逝，^300不知不觉间^300我们在一起已经五年了阿，^200可能是相爱的人察觉不到时间吧。^200就这样^600用我温暖的手^600牵着你冰凉的手^200一辈子吧！^600请叫我暖手^200工具人！<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;哈哈哈哈^300寒夜^600君人^300二人世界^600爱你的^600爱你的^600爱你的^600爱你的^600爱你的^600爱你的^600爱你的^600爱你的^600爱你的^600爱你的^600爱你的^600爱你的<br><br><p style='float:right; display:block; width:80px;'>^1000MR.^200陆</p>"],
+				"Mrs.^200赵小傻<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;时光飞逝，^300不知不觉间^300我们在一起已经五年了阿，^200可能是相爱的人察觉不到时间吧。^200未来的日子里就这样^600用我温暖的手^600牵着你冰凉的手^200一辈子吧！^600请叫我暖手^200工具人！<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;哈哈哈哈^300寒夜^600君人^300二人世界^600爱你的^600爱你的^600爱你的^600爱你的^600爱你的^600爱你的^600爱你的^600爱你的^600爱你的^600爱你的^600爱你的^600爱你的<br><br><p style='float:right; display:block; width:80px;'>^1000MR.^200陆</p>"],
 			typeSpeed: 100,
 			backSpeed: 50
 		});
