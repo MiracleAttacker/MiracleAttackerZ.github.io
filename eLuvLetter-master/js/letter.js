@@ -6,8 +6,9 @@ $("#open").click(function(){
 	if(!aparted)
 	{
 		var typed = new Typed('.letter', {
-			strings: ["I Love You Three Thousand Times ❤", 
-				"Mrs.^200赵小傻<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;时光飞逝，^300不知不觉间^300我们在一起已经五年了阿，^200可能是相爱的人察觉不到时间吧。^200未来的日子里就这样^600用我温暖的手^600牵着你冰凉的手^200一辈子吧！^600请叫我暖手^200工具人！<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;哈哈哈哈^300寒夜^600君人^300二人世界^600爱你的^600爱你的^600爱你的^600爱你的^600爱你的^600爱你的^600爱你的^600爱你的^600爱你的^600爱你的^600爱你的^600爱你的<br><br><p style='float:right; display:block; width:80px;'>^1000MR.^200陆</p>"],
+			strings: ["Mrs.^200赵小傻<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;时光飞逝，^300不知不觉间^300我们在一起已经五年了阿，^200可能是相爱的人^200在一起察觉不到时间吧。", 
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;^600真的很感谢我们的这场相遇，^300让我相信了真爱，我想这就是上天冥冥中的安排吧。^600回忆在一起的每一个画面，^200平淡而温馨，有一种简单的，^200只属于我们两个的幸福。<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;^200就这样^600，^200用我温暖的手^600牵着你冰凉的手^200一辈子吧！^300<br>"
+				+"<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Deep affection is not as long as deep love needs no words <br><p style='display:block; text-align:center;'>I Love You Three Thousand Times ❤</p><br><p style='float:right; display:block; width:80px;'>^1000MR.^200陆</p>"],
 			typeSpeed: 100,
 			backSpeed: 50
 		});
